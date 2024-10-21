@@ -21,4 +21,5 @@
 |[최솟값 구하기](Programmers/최솟값%20구하기.sql)|
 |[카테고리 별 도서 판매량 집계하기](Programmers/카테고리%20별%20도서%20판매량%20집계하기.sql)|
 |[헤비 유저가 소유한 장소](Programmers/헤비%20유저가%20소유한%20장소.sql)|
+|[DATETIME에서 DATE로 형 변환](Programmers/DATETIME에서%20DATE로%20형%20변환.sql)|
 |[NULL 처리하기](Programmers/NULL%20처리하기.sql)|
